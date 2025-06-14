@@ -17,3 +17,5 @@ Step 5: Enter the following command:
 ```
 pyinstaller /path/to/your/python_script
 ```
+
+YouTube Video Detailing Steps: https://www.youtube.com/watch?v=gpDcy0ea0go&ab_channel=HaydenCao
